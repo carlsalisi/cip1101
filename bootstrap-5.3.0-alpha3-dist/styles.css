@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap');
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav ul li a{
+    text-align: center;
+    
+}
+
+.navbar{
+    background-color: #882104;
+}
+
+label.navbar-brand{
+    
+    font-size: 25px;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+label.navbar-brand:hover{
+    color: white;
+    font-weight: bolder;
+}
+
+.car{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    
+}
+
+.title{
+    text-align: center;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-family: 'Kanit', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+.col-sm {
+    width: 50%;
+    height: 500px;
+    margin-bottom: 20px;
+    
+
+
+}
+
+.goat{
+    width: 100%;
+    height: 100%;
+}
+
+#copyright{
+    margin-top: 20px;
+    background-color: #212529;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+
